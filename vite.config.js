@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // inclusive quando o repositório for publicado em /nome-do-repositorio/.
 export default defineConfig({
   plugins: [react()],
-  base: '/imobiliaria',
+  base: '/imobiliaria/',
 })
